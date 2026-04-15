@@ -1,4 +1,4 @@
-Which city has the highest inefficiency ratio?
+1.Which city has the highest inefficiency ratio?
 
 The city with the highest inefficiency ratio in my results is Sendai, with a ratio of approximately 21.48. Other cities with high inefficiency include New Delhi (~17.93) and Johannesburg (~17.03).
 According to submarine cable maps, these regions are served by long-distance submarine cable systems that often connect through major global hubs rather than following a direct path. For example, Africa is connected to Europe through multiple submarine cables such as WACS, ACE, and Equiano, while many Asian routes pass through regional exchange hubs.
